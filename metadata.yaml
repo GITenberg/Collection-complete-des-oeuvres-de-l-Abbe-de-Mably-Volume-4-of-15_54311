@@ -1,5 +1,8 @@
 _repo: Collection-complete-des-oeuvres-de-l-Abbe-de-Mably-Volume-4-of-15_54311
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54311-h/images/cover-s.jpg
 creator:
   author:
     agent_name: Mably, Gabriel Bonnot de
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '48137'
     url: http://www.gutenberg.org/2009/agents/48137
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54311#Collection-complete-des-oeuvres-de-l-Abbe-de-Mably-Volume-4-of-15
 gutenberg_bookshelf:
 - FR Histoire
 - FR Politique
